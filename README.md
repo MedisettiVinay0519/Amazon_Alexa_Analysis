@@ -30,8 +30,8 @@ The final SVC model was evaluated using a **Confusion Matrix** to thoroughly ass
 
 | | Predicted Negative (0) | Predicted Positive (1) |
 | :--- | :--- | :--- |
-| **Actual Negative (0)** | **172** (True Negatives) | **2** (False Positives) |
-| **Actual Positive (1)** | **4** (False Negatives) | **162** (True Positives) |
+| **Actual Negative (0)** | **500** (True Negatives) | **50** (False Positives) |
+| **Actual Positive (1)** | **88** (False Negatives) | **520** (True Positives) |
 
 ### Confusion Matrix Visualization
-![Confusion Matrix for SVC Model on Amazon Alexa Reviews](images/Screenshot%202025-10-26%20115008.png)
+![Confusion Matrix for SVC Model on Amazon Alexa Reviews]()
